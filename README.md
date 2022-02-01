@@ -133,18 +133,25 @@ Formação Engenheiro de Machine Learning   | Udemy                     | 15/01/
 
 ---
 
-preenchido em breve
+:heavy_check_mark: Machine Learning com Python - **Hotmart / Didática Tech** <br />
+:heavy_check_mark: Data Science e Machine Learning com Estatística e Python - **Udemy** <br />
+:heavy_check_mark: Fundamentos de Ethical Hacking: curso prático - **Udemy** <br />
+:heavy_check_mark: DevOps Ninja: Docker, Kubernetes e Rancher - **Udemy** <br />
+:heavy_check_mark: Programação Web com Python e Django Framework: Essencial - **Udemy / Geek University** <br />
+:heavy_check_mark: Curso Android 9 Pie Completo - **SoftBlue** <br />
+
+> **Observação**: Os cursos acima apresentados estão em suas respectivas ordens de prioridade.
 
 ### :v: Algumas Estatísticas Legais sobre mim:
 
 ---
 
-> ![CodeWars](https://www.codewars.com/users/kalingth/badges/large)<br/>
+> <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height="16px" /> &nbsp;&nbsp; **CodeWars**:&nbsp;&nbsp;<img src="https://www.codewars.com/users/kalingth/badges/micro" height="16px" />
 
 ---
 
-> ![CTFLearn](https://ctflearn.com/static/img/favicon.ico) ![Kalingth](https://avatar.ctflearn.com/a58ed2707e8b2dca8cf970024aff5d22.png?set=set1&size=30x30) &nbsp;&nbsp; 2230 Pontos no CTFLearn
+> <img src="https://ctflearn.com/static/img/favicon.ico" height="16px" /> &nbsp;&nbsp; **CTFLearn**: 2230 Pontos.
 
 ---
 
-> <img src="https://assets.tryhackme.com/img/favicon.png" width="18px" /> &nbsp;&nbsp; <b>TryHackMe</b>: No top 16% dos usuários.
+> <img src="https://assets.tryhackme.com/img/favicon.png" width="16px" /> &nbsp;&nbsp; **TryHackMe**: No top 10% dos usuários.
