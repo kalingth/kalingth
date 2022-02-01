@@ -155,3 +155,10 @@ Formação Engenheiro de Machine Learning   | Udemy                     | 15/01/
 ---
 
 > <img src="https://assets.tryhackme.com/img/favicon.png" width="16px" /> &nbsp;&nbsp; **TryHackMe**: No top 10% dos usuários.
+
+---
+
+<div>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=kalingth&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalingth&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
