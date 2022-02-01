@@ -39,6 +39,28 @@ wall@kalingth:~$ curl -d '{"campo":"nome' or '1'='1"}' -X POST https://kalingth.
 }
 ```
 
+### :school: Trajetória Acadêmica
+
+---
+
+> **Universidade**: Universidade Cruzeiro Do Sul - *UNICSUL*.<br />
+> **Curso**: Tecnólogo em Internet das Coisas.<br />
+> **Início**: 02/2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: 12/2020.
+
+---
+
+> **Universidade**: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - *CEFET/RJ*.<br />
+> **Curso**: Bacharelado em Engenharia da Computação.<br />
+> **Início**: 02/2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: 04/2016. (Interrompido :disappointed_relieved:)
+
+---
+
+> **Universidade**: Universidade Federal do Rio de Janeiro - *UFRJ*.<br />
+> **Curso**: Bacharelado em Matemática Aplicada.<br />
+> **Início**: 02/2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: 12/2014. (Interrompido :disappointed_relieved:)
+
+<br />
+
 ### :trophy: Conquistas
 
 ---
@@ -56,6 +78,7 @@ HCIA-AI      | Huawei   | 21/01/2021      | 21/01/2025
 
 Curso                                     | Instituição               | Data de Emissão
 :---------------------------------------: | :-----------------------: | :-------------:
+Curso de Informática Avançado (Office)    | Legião da Boa Vontade     | 15/07/2013
 Curso de HTML5                            | Cursos 24 Horas           | 01/03/2017
 Curso de Banco de Dados                   | Cursos 24 Horas           | 01/04/2017
 Iniciando com Python                      | School of Net             | 31/05/2017
