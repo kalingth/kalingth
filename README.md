@@ -89,7 +89,6 @@ Programação para Internet com JavaScript  | Digital Innovation One    | 10/04/
 MySql: Explorando Relações com WorchBench | Digital Innovation One    | 10/04/2021
 Programação em Python                     | Geek University / Udemy   | 12/04/2021
 Projetos Ageis com Scrum                  | Digital Innovation One    | 16/04/2021
-Introdução ao Git e ao GitHub             | Digital Innovation One    | 18/04/2021
 Introdução ao Git e ao Github             | Digital Innovation One    | 18/04/2021
 Programação para Internet com HTML e CSS  | Digital Innovation One    | 18/04/2021
 Desenvolvimento com Flask e REST API      | Digital Innovation One    | 21/04/2021
