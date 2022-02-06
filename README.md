@@ -128,6 +128,9 @@ Pensamento Computacional                  | Digital Innovation One    | 04/11/20
 Arquitetura de Dados Essencial            | Digital Innovation One    | 15/11/2021
 HCIA-AI Course                            | Huawei                    | 15/01/2022
 Formação Engenheiro de Machine Learning   | Udemy                     | 15/01/2022
+Primeiros passos com AWS                  | Digital Innovation One    | 05/02/2022
+Introdução prática à cloud usando AWS     | Digital Innovation One    | 05/02/2022
+Criando uma Aplicação Serverless na AWS   | Digital Innovation One    | 05/02/2022
 
 ### 👨‍🎓 Estudando
 
