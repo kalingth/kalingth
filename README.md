@@ -131,6 +131,7 @@ Formação Engenheiro de Machine Learning   | Udemy                     | 15/01/
 Primeiros passos com AWS                  | Digital Innovation One    | 05/02/2022
 Introdução prática à cloud usando AWS     | Digital Innovation One    | 05/02/2022
 Criando uma Aplicação Serverless na AWS   | Digital Innovation One    | 05/02/2022
+GFT Quality Assurance #1                  | DIO / GFT Technologies    | 01/03/2022
 
 ### 👨‍🎓 Estudando
 
