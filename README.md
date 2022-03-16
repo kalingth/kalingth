@@ -5,7 +5,7 @@
 ---
 
 ```console
-wall@kalingth:~$ curl -d '{"campo":"1' or '1'='1"}' -X POST https://kalingth.data/personal
+wall@kalingth:~$ curl -d '{"nome":"Zezinho' or '1'='1"}' -X POST https://kalingth.data/personal
 ```
 
 ```json
