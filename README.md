@@ -5,7 +5,7 @@
 ---
 
 ```console
-wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezinho' or '1'='1'--", "password":"1234"}' -X POST https://kalingth.data/personal
+wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezinho` or `1`=`1`;--", "password":"1234"}' -X POST https://kalingth.data/personal
 ```
 
 ```json
