@@ -21,15 +21,13 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
       "Python": { "love_rate": 1.0 },
       "JavaScript": { "love_rate": 0.94 }
     },
-    "tecnologias_que_amo":
-    [
+    "tecnologias_que_amo": [
       "WebScrappers",
       "WebCrawlers",
       "TensorFlow",
       "Scikit-Learn"
     ],
-    "interesses":
-    [
+    "interesses": [
       "Inteligência Artificial",
       "Internet das Coisas",
       "Machine Learning",
@@ -37,11 +35,17 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
       "Deep Learning",
       "Automações"
     ]
-  },
+  }
 ]
 ```
 
 ### :school: Trajetória Acadêmica
+
+---
+
+> **Universidade**: Pontíficia Universidade Católica de Minas Gerais.<br />
+> **Curso**: Especialização em Inteligência Artificial E Aprendizado De Máquina.<br />
+> **Inicio**: 06/2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: Em Andamento.
 
 ---
 
