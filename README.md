@@ -141,6 +141,9 @@ Construindo páginas web com Bootstrap     | Digital Innovation One            |
 Posicionando elementos com Flexbox em CSS | Digital Innovation One            | 31/03/2022
 Explorando o poder do NoSQL               | Digital Innovation One            | 03/04/2022
 Elasticsearch 7 e Elastic Stack           | Escola de Inteligência Artificial | 01/05/2022
+Workshop Elasticsearch e a stack Elastic  | Udemy                             | 28/06/2022
+Programação Concorrente com Python        | Geek University / Udemy           | 06/11/2022
+Docker Essencial para o Desenvolvedor     | Geek University / Udemy           | 15/11/2022
 
 ### 👨‍🎓 Estudando
 
