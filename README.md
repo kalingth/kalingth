@@ -77,11 +77,11 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
 
 > :label: **Certificações**: Aqui estão as certificações oficiais que eu conquistei até o momento.
 
-Certificação          | Emissor  | Data de Emissão | Validade
---------------------- | :------: | :-------------: | :------:
-HCIA-AI               | Huawei   | 21/01/2021      | 21/01/2025
-Foundations Associate | Oracle   | 20/07/2023      | 20/07/2025
-Architect Associate   | Oracle   | 28/07/2023      | 28/07/2025
+Certificação              | Emissor  | Data de Emissão | Validade
+------------------------- | :------: | :-------------: | :------:
+HCIA-AI                   | Huawei   | 21/01/2021      | 21/01/2025
+OCI Foundations Associate | Oracle   | 20/07/2023      | 20/07/2025
+OCI Architect Associate   | Oracle   | 28/07/2023      | 28/07/2025
 
 <br />
 <br />
