@@ -1,8 +1,8 @@
 # Kalingth :space_invader:
 
-[![HCIA-AI](https://cdn-dkaaj.nitrocdn.com/plzgPDEpidERiaEdqssHyKBjMLGHLtsP/assets/images/optimized/rev-50694a8/infosyte.com/wp-content/uploads/2020/11/HCIA-Artificial-Intelligence-AI.jpg)](https://1drv.ms/b/s!ApDEx2Q1-b9bhtc_P6HTPWE1xhf9Eg?e=wgdXhV)
-[![Foundations Associate](https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9447D90E6060CB375152BA6F4E07ECF78FC259BA10AAEB975AB358E6CDDD2C01)
-[![Architect Associate](https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8545706783299EE0B34DEF61F720B7C30F6C8E01E5A6874B6DA3E82176B4BD4D)
+[<img src="https://cdn-dkaaj.nitrocdn.com/plzgPDEpidERiaEdqssHyKBjMLGHLtsP/assets/images/optimized/rev-50694a8/infosyte.com/wp-content/uploads/2020/11/HCIA-Artificial-Intelligence-AI.jpg" height="60px" />](https://1drv.ms/b/s!ApDEx2Q1-b9bhtc_P6HTPWE1xhf9Eg?e=wgdXhV)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9447D90E6060CB375152BA6F4E07ECF78FC259BA10AAEB975AB358E6CDDD2C01)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8545706783299EE0B34DEF61F720B7C30F6C8E01E5A6874B6DA3E82176B4BD4D)
 
 ### :detective: Informações Pessoais
 
