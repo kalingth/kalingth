@@ -1,8 +1,6 @@
 # Kalingth :space_invader:
 
-[<img src="https://cdn-dkaaj.nitrocdn.com/plzgPDEpidERiaEdqssHyKBjMLGHLtsP/assets/images/optimized/rev-50694a8/infosyte.com/wp-content/uploads/2020/11/HCIA-Artificial-Intelligence-AI.jpg" height="60px" />](https://1drv.ms/b/s!ApDEx2Q1-b9bhtc_P6HTPWE1xhf9Eg?e=wgdXhV)
-[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9447D90E6060CB375152BA6F4E07ECF78FC259BA10AAEB975AB358E6CDDD2C01)
-[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8545706783299EE0B34DEF61F720B7C30F6C8E01E5A6874B6DA3E82176B4BD4D)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9447D90E6060CB375152BA6F4E07ECF78FC259BA10AAEB975AB358E6CDDD2C01) [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" height="60px" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A675B49D7B91AD82114F19AE11D9CB401E705F129C578560432CB473BC989DC2) [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" height="60px" />](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8545706783299EE0B34DEF61F720B7C30F6C8E01E5A6874B6DA3E82176B4BD4D) [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCID2023CP.png" height="60px" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2AAA116CC82F8F476656147E80BC848E74FFC8555AD9A295528701C12CF3B8B5)
 
 ### :detective: Informações Pessoais
 
@@ -77,11 +75,13 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
 
 > :label: **Certificações**: Aqui estão as certificações oficiais que eu conquistei até o momento.
 
-Certificação              | Emissor  | Data de Emissão | Validade
-------------------------- | :------: | :-------------: | :------:
-HCIA-AI                   | Huawei   | 21/01/2021      | 21/01/2025
-OCI Foundations Associate | Oracle   | 20/07/2023      | 20/07/2025
-OCI Architect Associate   | Oracle   | 28/07/2023      | 28/07/2025
+Certificação               | Emissor  | Data de Emissão | Validade
+-------------------------- | :------: | :-------------: | :------:
+HCIA-AI                    | Huawei   | 21/01/2021      | 21/01/2025
+OCI Foundations Associate  | Oracle   | 20/07/2023      | 20/07/2025
+OCI Architect Associate    | Oracle   | 28/07/2023      | 28/07/2025
+OCI Developer Professional | Oracle   | 07/08/2023      | 07/08/2025
+OCI Cloud Data Management  | Oracle   | 08/08/2023      | 08/08/2025
 
 <br />
 <br />
