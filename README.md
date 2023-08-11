@@ -14,7 +14,7 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
 [
   {
     "nome": "Wallace Rocha",
-    "idade": 25,
+    "idade": 27,
     "titulo": "Tecnólogo em Internet das Coisas",
     "alma_mater": "Universidade Cruzeiro do Sul"
     "linguagens_favoritas":
