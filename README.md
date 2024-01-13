@@ -47,7 +47,7 @@ wall@kalingth:~$ curl -H 'Content-Type: application/json' -d '{"username":"zezin
 
 > **Universidade**: Pontíficia Universidade Católica de Minas Gerais.<br />
 > **Curso**: Especialização em Inteligência Artificial E Aprendizado De Máquina.<br />
-> **Inicio**: 06/2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: Em Andamento.
+> **Inicio**: 06/2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusão**: 10/2023.
 
 ---
 
